@@ -13,6 +13,9 @@ dependencies:
     sdk: flutter
   flutter_webrtc: ^0.9.6
   sdp_transform: ^0.3.2
+  socket_io_client: ^2.0.0
+  oktoast: ^3.3.0
+  shared_preferences: ^2.0.15
 
 dev_dependencies:
   flutter_test:
